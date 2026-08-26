@@ -1,10 +1,12 @@
-# TaaS Test Repository
+# Calculator Module
 
-Simple calculator module for testing TaaS (Test-as-a-Service) automated test generation.
+Basic arithmetic operations for testing TaaS.
+
+## Usage
+Import and use the calculator functions.
 
 ## Features
-- Basic arithmetic operations
-- Error handling for division by zero
-
-## Testing
-Create a pull request to trigger TaaS analysis and automated test generation.
+- Addition
+- Subtraction
+- Multiplication
+- Division (with zero-check)
